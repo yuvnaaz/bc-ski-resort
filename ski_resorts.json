@@ -1,0 +1,153 @@
+[
+    {
+        "Apex Mountain11 hours ago": {
+            "OpenResortName": "Apex Mountain11 hours ago",
+            "Snowfall24h24h": "2\"-",
+            "BaseDepthBase": "49\"Variable Conditions",
+            "OpenTrailsTrails": "80/8095% Open",
+            "OpenLifts": "4/4-"
+        },
+        "Big White12 hours ago": {
+            "OpenResort Name": "Big White12 hours ago",
+            "Snowfall 24h24h": "2\"-",
+            "Base DepthBase": "67\"Packed Powder",
+            "Open TrailsTrails": "116/119100% Open",
+            "Open Lifts": "16/16-"
+        },
+        "Cypress Mountain9 hours ago": {
+            "OpenResort Name": "Cypress Mountain9 hours ago",
+            "Snowfall 24h24h": "4\"-",
+            "Base DepthBase": "39\"Variable Conditions",
+            "Open TrailsTrails": "5/618% Open",
+            "Open Lifts": "3/6-"
+        },
+        "Fernie Alpine12 hours ago": {
+            "OpenResort Name": "Fernie Alpine12 hours ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "35-66\"Packed Powder",
+            "Open TrailsTrails": "134/14294% Open",
+            "Open Lifts": "9/10-"
+        },
+        "Grouse Mountain5 hours ago": {
+            "OpenResort Name": "Grouse Mountain5 hours ago",
+            "Snowfall 24h24h": "8\"-",
+            "Base DepthBase": "14-33\"Packed Powder",
+            "Open TrailsTrails": "4/3412% Open",
+            "Open Lifts": "2/6-"
+        },
+        "Hudson Bay Mountain13 hours ago": {
+            "OpenResort Name": "Hudson Bay Mountain13 hours ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "35\"Machine Groomed",
+            "Open TrailsTrails": "40/4198% Open",
+            "Open Lifts": "4/5-"
+        },
+        "Kicking Horse16 hours ago": {
+            "OpenResort Name": "Kicking Horse16 hours ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "46-46\"Machine Groomed",
+            "Open TrailsTrails": "102/12979% Open",
+            "Open Lifts": "4/5-"
+        },
+        "Kimberley14 hours ago": {
+            "OpenResort Name": "Kimberley14 hours ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "30\"Packed Powder",
+            "Open TrailsTrails": "65/8081% Open",
+            "Open Lifts": "5/5-"
+        },
+        "Manning Park Resort14 hours ago": {
+            "OpenResort Name": "Manning Park Resort14 hours ago",
+            "Snowfall 24h24h": "0.8\"-",
+            "Base DepthBase": "16-28\"Hard Packed",
+            "Open TrailsTrails": "5/3421% Open",
+            "Open Lifts": "3/4-"
+        },
+        "Mt Baldy2 days ago": {
+            "OpenResort Name": "Mt Baldy2 days ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "31-43\"Powder",
+            "Open TrailsTrails": "40/40100% Open",
+            "Open Lifts": "3/4-"
+        },
+        "Mt Washington Alpine Resort9 hours ago": {
+            "OpenResort Name": "Mt Washington Alpine Resort9 hours ago",
+            "Snowfall 24h24h": "4\"-",
+            "Base DepthBase": "69\"Packed Powder",
+            "Open TrailsTrails": "21/8325% Open",
+            "Open Lifts": "7/10-"
+        },
+        "Panorama Mountain14 hours ago": {
+            "OpenResort Name": "Panorama Mountain14 hours ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "19-38\"Packed Powder",
+            "Open TrailsTrails": "140/14497% Open",
+            "Open Lifts": "11/11-"
+        },
+        "Powder King14 hours ago": {
+            "OpenResort Name": "Powder King14 hours ago",
+            "Snowfall 24h24h": "2\"-",
+            "Base DepthBase": "37-61\"Machine Groomed",
+            "Open TrailsTrails": "38/38100% Open",
+            "Open Lifts": "3/3-"
+        },
+        "Red Mountain12 hours ago": {
+            "OpenResort Name": "Red Mountain12 hours ago",
+            "Snowfall 24h24h": "2\"-",
+            "Base DepthBase": "39-49\"Powder",
+            "Open TrailsTrails": "117/11998% Open",
+            "Open Lifts": "8/8-"
+        },
+        "Revelstoke9 hours ago": {
+            "OpenResort Name": "Revelstoke9 hours ago",
+            "Snowfall 24h24h": "0.8\"-",
+            "Base DepthBase": "60\"Variable Conditions",
+            "Open TrailsTrails": "35/5959% Open",
+            "Open Lifts": "4/6-"
+        },
+        "SilverStar13 hours ago": {
+            "OpenResort Name": "SilverStar13 hours ago",
+            "Snowfall 24h24h": "2\"-",
+            "Base DepthBase": "65\"Machine Groomed",
+            "Open TrailsTrails": "130/13398% Open",
+            "Open Lifts": "10/11-"
+        },
+        "Sun Peaks12 hours ago": {
+            "OpenResort Name": "Sun Peaks12 hours ago",
+            "Snowfall 24h24h": "2\"-",
+            "Base DepthBase": "17-57\"Powder",
+            "Open TrailsTrails": "133/13798% Open",
+            "Open Lifts": "12/13-"
+        },
+        "Whistler Blackcomb13 hours ago": {
+            "OpenResort Name": "Whistler Blackcomb13 hours ago",
+            "Snowfall 24h24h": "4\"-",
+            "Base DepthBase": "2-55\"Powder",
+            "Open TrailsTrails": "200/23495% Open",
+            "Open Lifts": "23/27-"
+        },
+        "Whitewater Ski Resort9 hours ago": {
+            "OpenResort Name": "Whitewater Ski Resort9 hours ago",
+            "Snowfall 24h24h": "0.8\"-",
+            "Base DepthBase": "59\"Packed Powder",
+            "Open TrailsTrails": "97/97137% Open",
+            "Open Lifts": "5/5-"
+        }
+    },
+    {
+        "Mt Seymour11 hours ago": {
+            "Temporarily ClosedResort Name": "Mt Seymour11 hours ago",
+            "Snowfall 24h24h": "6\"-",
+            "Base DepthBase": "13-46\"-",
+            "Open TrailsTrails": "--",
+            "Open Lifts": "--"
+        },
+        "Sasquatch Mountain Resort1 week ago": {
+            "Temporarily ClosedResort Name": "Sasquatch Mountain Resort1 week ago",
+            "Snowfall 24h24h": "--",
+            "Base DepthBase": "39-50\"-",
+            "Open TrailsTrails": "--",
+            "Open Lifts": "--"
+        }
+    }
+]
